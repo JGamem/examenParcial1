@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jgamez/Desktop/examenParcial1/examenParcial1/examenParcial1.csproj": {}
+    "/Users/jgamez/Desktop/Programación I/examenParcial1/examenParcial1/examenParcial1.csproj": {}
   },
   "projects": {
-    "/Users/jgamez/Desktop/examenParcial1/examenParcial1/examenParcial1.csproj": {
+    "/Users/jgamez/Desktop/Programación I/examenParcial1/examenParcial1/examenParcial1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jgamez/Desktop/examenParcial1/examenParcial1/examenParcial1.csproj",
+        "projectUniqueName": "/Users/jgamez/Desktop/Programación I/examenParcial1/examenParcial1/examenParcial1.csproj",
         "projectName": "examenParcial1",
-        "projectPath": "/Users/jgamez/Desktop/examenParcial1/examenParcial1/examenParcial1.csproj",
+        "projectPath": "/Users/jgamez/Desktop/Programación I/examenParcial1/examenParcial1/examenParcial1.csproj",
         "packagesPath": "/Users/jgamez/.nuget/packages/",
-        "outputPath": "/Users/jgamez/Desktop/examenParcial1/examenParcial1/obj/",
+        "outputPath": "/Users/jgamez/Desktop/Programación I/examenParcial1/examenParcial1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jgamez/.nuget/NuGet/NuGet.Config"

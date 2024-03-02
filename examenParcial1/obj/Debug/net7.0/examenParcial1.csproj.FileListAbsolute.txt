@@ -1,0 +1,15 @@
+/Users/jgamez/Desktop/Programación I/examenParcial1/examenParcial1/bin/Debug/net7.0/examenParcial1
+/Users/jgamez/Desktop/Programación I/examenParcial1/examenParcial1/bin/Debug/net7.0/examenParcial1.deps.json
+/Users/jgamez/Desktop/Programación I/examenParcial1/examenParcial1/bin/Debug/net7.0/examenParcial1.runtimeconfig.json
+/Users/jgamez/Desktop/Programación I/examenParcial1/examenParcial1/bin/Debug/net7.0/examenParcial1.dll
+/Users/jgamez/Desktop/Programación I/examenParcial1/examenParcial1/bin/Debug/net7.0/examenParcial1.pdb
+/Users/jgamez/Desktop/Programación I/examenParcial1/examenParcial1/obj/Debug/net7.0/examenParcial1.csproj.AssemblyReference.cache
+/Users/jgamez/Desktop/Programación I/examenParcial1/examenParcial1/obj/Debug/net7.0/examenParcial1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jgamez/Desktop/Programación I/examenParcial1/examenParcial1/obj/Debug/net7.0/examenParcial1.AssemblyInfoInputs.cache
+/Users/jgamez/Desktop/Programación I/examenParcial1/examenParcial1/obj/Debug/net7.0/examenParcial1.AssemblyInfo.cs
+/Users/jgamez/Desktop/Programación I/examenParcial1/examenParcial1/obj/Debug/net7.0/examenParcial1.csproj.CoreCompileInputs.cache
+/Users/jgamez/Desktop/Programación I/examenParcial1/examenParcial1/obj/Debug/net7.0/examenParcial1.dll
+/Users/jgamez/Desktop/Programación I/examenParcial1/examenParcial1/obj/Debug/net7.0/refint/examenParcial1.dll
+/Users/jgamez/Desktop/Programación I/examenParcial1/examenParcial1/obj/Debug/net7.0/examenParcial1.pdb
+/Users/jgamez/Desktop/Programación I/examenParcial1/examenParcial1/obj/Debug/net7.0/examenParcial1.genruntimeconfig.cache
+/Users/jgamez/Desktop/Programación I/examenParcial1/examenParcial1/obj/Debug/net7.0/ref/examenParcial1.dll
