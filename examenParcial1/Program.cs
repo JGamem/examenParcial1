@@ -19,8 +19,10 @@ do
                 Ejercicio2();
                 break;
             case 3:
+                Ejercicio3();
                 break;
             case 4:
+                Ejercicio4();
                 break;
             case 5:
                 Console.Clear();
@@ -164,4 +166,66 @@ static void Ejercicio2()
     Console.WriteLine();
     Console.WriteLine("Presiona cualquier tecla para continuar...");
     Console.ReadKey();
+}
+
+static void Ejercicio3()
+{
+    try
+    {
+        Console.Clear();
+        Console.WriteLine("Ingrese un número para ver su tabla de multiplicar:");
+        int num = int.Parse(Console.ReadLine());
+
+        for (int i = 1; i <= 10; i++)
+        {
+            Console.WriteLine($"{num} x {i} = {num * i}");
+        }
+    }
+    catch (FormatException)
+    {
+        Console.WriteLine("Error: Ingrese solo números enteros.");
+    }
+
+    Console.WriteLine("Presione cualquier tecla para continuar...");
+    Console.ReadKey();
+}
+
+static void Ejercicio4()
+{
+    Random random = new Random();
+    int numeroSecreto = random.Next(1, 101);
+    int intentos = 0;
+    int intentoUsuario;
+
+    Console.Clear();
+    Console.WriteLine("Adivina el numero secreto");
+    Console.WriteLine("Estoy pensando en un numero entre 1 y 100. Adivina cuál es.");
+
+    do
+    {
+        Console.Write("Introduce tu suposición: ");
+        string input = Console.ReadLine();
+
+        if (!int.TryParse(input, out intentoUsuario))
+        {
+            Console.WriteLine("Por favor, ingresa un número válido.");
+            continue;
+        }
+
+        intentos++;
+
+        if (intentoUsuario < numeroSecreto)
+        {
+            Console.WriteLine("El número secreto es mayor. Proba otra vez");
+        }
+        else if (intentoUsuario > numeroSecreto)
+        {
+            Console.WriteLine("El número secreto es menor. Proba otra vez");
+        }
+        else
+        {
+            Console.WriteLine($"¡Felicidades! ¡Has adivinado el número secreto {numeroSecreto} en {intentos} intentos!");
+            break;
+        }
+    } while (true);
 }
